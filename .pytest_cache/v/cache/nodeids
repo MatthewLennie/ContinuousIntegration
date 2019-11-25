@@ -1,0 +1,7 @@
+[
+  "test/test_add_module.py::TestAddModule::()::test_basic_addition[test_input0-4]",
+  "test/test_add_module.py::TestAddModule::()::test_basic_addition[test_input1-0]",
+  "test/test_add_module.py::TestAddModule::()::test_basic_addition[test_input2-2000000.0]",
+  "test/test_add_module.py::TestAddModule::()::test_basic_addition[test_input3-0]",
+  "test/test_add_module.py::TestAddModule::()::test_type_input"
+]

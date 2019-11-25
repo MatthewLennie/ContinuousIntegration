@@ -8,8 +8,8 @@ Created on Mon Nov 25 10:24:39 2019
 import pytest
 import sys
 
-sys.path.append("..")
-sys.path.append("../src")
+sys.path.append(".")
+sys.path.append("./src")
 
 from src import add_module
 
