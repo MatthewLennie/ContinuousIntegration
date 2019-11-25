@@ -1,0 +1,7 @@
+{
+  "test_add_module.py::TestAddModule::()::test_basic_addition[1-1]": true,
+  "test_add_module.py::TestAddModule::()::test_basic_addition[2-4]": true,
+  "test_add_module.py::TestAddModule::()::test_basic_addition[3-8]": true,
+  "test_add_module.py::TestAddModule::()::test_basic_addition[a-4]": true,
+  "test_add_module.py::TestAddModule::()::test_basic_addition[test_input3-1]": true
+}
